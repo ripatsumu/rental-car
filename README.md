@@ -1,7 +1,3 @@
-Sure! Here's a sample README file for your car rental website project that you can use on GitHub:
-
----
-
 # Car Rental Website Project
 
 ## Overview
