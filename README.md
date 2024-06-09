@@ -71,6 +71,7 @@ This is a car rental website project developed as part of the third-year MGSI pr
 - **Browse Cars:** View available cars for rent.
 - **Make a Reservation:** Select a car and provide the required details to make a reservation.
 - **Manage Reservations:** View and manage your reservations from your dashboard.
+- **Admin credentials:** rip:123
 
 ## Live Demo
 
